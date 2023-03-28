@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "proj_pessoa_28-03/1.0.0": {
+        "runtime": {
+          "proj_pessoa_28-03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proj_pessoa_28-03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

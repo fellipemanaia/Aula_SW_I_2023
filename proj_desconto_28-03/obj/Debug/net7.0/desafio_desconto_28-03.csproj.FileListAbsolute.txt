@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\bin\Debug\net7.0\desafio_desconto_28-03.exe
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\bin\Debug\net7.0\desafio_desconto_28-03.deps.json
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\bin\Debug\net7.0\desafio_desconto_28-03.runtimeconfig.json
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\bin\Debug\net7.0\desafio_desconto_28-03.dll
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\bin\Debug\net7.0\desafio_desconto_28-03.pdb
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.dll
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\refint\desafio_desconto_28-03.dll
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.pdb
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\desafio_desconto_28-03.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\desafio_desconto_28-03\obj\Debug\net7.0\ref\desafio_desconto_28-03.dll
