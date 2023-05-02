@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\heranca_polimorfismo.exe
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\heranca_polimorfismo.deps.json
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\heranca_polimorfismo.runtimeconfig.json
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\heranca_polimorfismo.dll
+C:\Users\LAB4\Desktop\heranca_polimorfismo\bin\Debug\net7.0\heranca_polimorfismo.pdb
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.dll
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\refint\heranca_polimorfismo.dll
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.pdb
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\heranca_polimorfismo.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\heranca_polimorfismo\obj\Debug\net7.0\ref\heranca_polimorfismo.dll
