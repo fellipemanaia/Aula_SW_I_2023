@@ -1,0 +1,30 @@
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\bin\Debug\net7.0\exercicio03.exe
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\bin\Debug\net7.0\exercicio03.deps.json
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\bin\Debug\net7.0\exercicio03.runtimeconfig.json
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\bin\Debug\net7.0\exercicio03.dll
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\bin\Debug\net7.0\exercicio03.pdb
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.csproj.AssemblyReference.cache
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.AssemblyInfoInputs.cache
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.AssemblyInfo.cs
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.dll
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\refint\exercicio03.dll
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.pdb
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\exercicio03.genruntimeconfig.cache
+C:\Users\unkno\OneDrive\Área de Trabalho\exercicio03\obj\Debug\net7.0\ref\exercicio03.dll
+C:\Users\LAB4\Desktop\exercicio03\bin\Debug\net7.0\exercicio03.exe
+C:\Users\LAB4\Desktop\exercicio03\bin\Debug\net7.0\exercicio03.deps.json
+C:\Users\LAB4\Desktop\exercicio03\bin\Debug\net7.0\exercicio03.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercicio03\bin\Debug\net7.0\exercicio03.dll
+C:\Users\LAB4\Desktop\exercicio03\bin\Debug\net7.0\exercicio03.pdb
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.dll
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\refint\exercicio03.dll
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.pdb
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\exercicio03.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercicio03\obj\Debug\net7.0\ref\exercicio03.dll
